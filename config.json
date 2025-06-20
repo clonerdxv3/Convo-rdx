@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "RDX CONVO",
-    "PREFIX": ".",
+    "PREFIX": "$",
     "ADMINBOT": [
         "100086033644262"
     ],
